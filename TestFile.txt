@@ -1,0 +1,10 @@
+While running git init command, I have seen that my username is not figuring in the path returned after creating local folder or respository. I m getting return path as follows
+
+Initialized empty Git repository in c:/Users/Sagar/Desktop/exercise/.git/ but in course it shown it should have user name as follows “Initialized empty Git repository in /Users/<username>/Desktop/extras/.git/”
+
+All other things like commit push are working fine and i m able see my file on github, but concerned about username not figuring out in the path. Will this impact something?
+
+Please note that my user is not Sagar as shown in path, its something different.
+
+Also there is issue in question space, i m not able give spaces between words. Moderators pls check
+
